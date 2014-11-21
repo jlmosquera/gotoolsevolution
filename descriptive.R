@@ -1,10 +1,10 @@
-##   Thesis Title : Methods and Models for the Analysis of Biological Significance on High-Throughput Data
+##   Thesis Title : Methods and Models for the Analysis of Biological Significance Based on High-Throughput Data
 ## PhD Candidate  : Jose Luis Mosquera
 ## Thesis Advisor : Alex Sanchez
 ##
 ## Description : This script is devoted to perform a descriptive statistic and an inferential analysis
 ##               based on the data downloaded from SerbGO database and already preprocessed for the analysis.
-##     License : Use and distribution subject to the terms of the GPL-2 license. See LICENSE for details.
+##     License : See LICENSE.md for details.
 
 
 ###########################################
