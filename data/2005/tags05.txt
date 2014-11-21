@@ -1,0 +1,238 @@
+tagid	field	level	tag
+1	mtoolfor	1	TOOL FOR
+2	mexplora	2	Exploration
+3	mannotat	2	Annotation
+4	ttypeofe	1	TYPE OF EXPERIMENT
+5	tdnamicr	2	DNA Microarrays
+6	tsppoted	3	Affymetrix
+7	tinsitua	3	cDNA
+8	tproteom	2	Proteomic
+9	tsage	2	SAGE
+10	tcgh	2	CGH
+11	tothers	2	Others
+12	tinterfa	1	INTERFACE
+13	twebased	2	Web-based
+14	tdownloa	2	Downloable
+15	tcomposs	2	Compatible OSS
+16	twindows	3	Windows
+17	tmacosx	3	Mac OS X
+18	tunix	3	Unix
+19	tlinux	3	Linux
+20	tbatch	2	Command line (batch navigation)
+21	tavailab	1	AVAILABILITY
+22	tfree	2	Free
+23	tpartial	2	Partially Fee
+24	tfee	2	Fee
+25	tsamplef	1	SAMPLE FILES/LISTS
+26	ssupport	1	SUPPORTED SPECIES
+27	sanophel	2	Anopheles gambiae
+28	sarabido	2	Arabidopsis Thaliana
+29	sbacillu	2	Bacillus Anthracis Ames
+30	scow	2	Bos Taurus (Domestic Cow)
+31	scaenbri	2	Caenorlabditis Briggsae
+32	scaenele	2	Caenorlabditis Elegans
+33	scoxiell	2	Coxiella Burnetii RSA 493
+34	szebrafi	2	Danio Rerio (Zebrafish)
+35	sdictyos	2	Dictyostellium Discoideum
+36	sfly	2	Drosophila Melanogaster (Fly)
+37	sfugurub	2	Fugu Rubripes
+38	sgeobact	2	Geobacter Sulfurreducens PCA
+39	sglossin	2	Glossina Morsitans
+40	shuman	2	Homo Sapiens (Human)
+41	sleishma	2	Leishmania Major
+42	smouse	2	Mus Musculus (Mouse)
+43	soryzasa	2	Oryza Sativa
+44	splasmod	2	Plasmodium Falciparum
+45	spseudom	2	Pseudomonas Syringae DC300
+46	srat	2	Rattus Norvegicus (Rat)
+47	sbeer	2	Saccharomyces Cervisiae (Beer)
+48	syeast	2	Schizosaccharomyces Pombe (Yeast)
+49	sshewane	2	Shewanella Oneidensis
+50	strypano	2	Trypanosoma Brucei
+51	scholera	2	Vibrio Cholerae (Cholera)
+52	sothers	2	Others
+53	ddata	1	DATA
+54	datomat	2	Automated Updating Source
+55	dweekly	3	Weekly
+56	dmonthly	3	Monthly
+57	dquarter	3	Quarterly
+58	dinputs	2	Inputs
+59	dalistof	3	A list of
+60	dgenes	4	Genes
+61	dprotein	4	Proteins
+62	dslimter	4	Slim terms
+63	dsinglet	2	A single term
+64	dcec	2	Choose Evidence Codes
+65	ddescrip	2	Descriptions
+66	didentif	2	Identifiers
+67	daffymet	4	Affymetrix Probe Set Ids
+68	dcloneid	4	CloneID
+69	dchromos	4	Chromosome Locations
+70	densembl	4	Ensembl ID
+71	dfishid	4	FISH Clone ID
+72	dflybase	4	FlyBase ID
+73	dgbankan	4	GeneBank Accession Number
+74	dgenepep	4	GenePept Accession
+75	dgnames	4	Gene Names
+76	dgsymbol	4	Gene Symbol
+77	dgocid	4	GO Consortium ID
+78	dgiacces	4	GI accession
+79	dhugogn	4	HUGO gene names
+80	dimagecl	4	IMAGE Clone
+81	dlocusli	4	LocusLink Ids
+82	dpiracce	4	PIR Accession
+83	dprotacc	4	Protein accession
+84	dpubmed	4	PubMed
+85	drefseq	4	RefSeq Ids
+86	dswisspr	4	Swiss-Prot Ids
+87	dsymbol	4	Symbol
+88	dsynonym	4	Synonyms
+89	dtigrcmr	4	TIGR_CMR
+90	dunigene	4	UniGene
+91	dcluster	5	Cluster ID
+92	dids	5	Ids
+93	dnames	5	Names
+94	dugsymbl	5	Symbol
+95	dadditio	4	Additional data input
+96	dothers	4	Others
+97	dloadinp	3	Load inputs from
+98	dfile	4	A file
+99	dpastext	4	Paste into a text area
+100	aannotat	1	ANNOTATION
+101	adatasou	2	Data Source or Fields for Information Retrieval
+102	aaffydes	3	Affymetrix descriptions
+103	abiocart	3	BioCarta
+104	achromlc	3	Chromosome Locations
+105	adbest	3	dbEST
+106	aebiembl	3	EBI-EMBL
+107	aesembl	3	Esembl
+108	aflybase	3	FlyBase
+109	ahgdb	3	GDB Human Genome Data Base
+110	agbank	3	GeneBank
+111	agenecar	3	GeneCards
+112	agenemap	3	GeneMap99
+113	agname	3	Gene Name
+114	agsymbol	3	Gene Symbol
+115	agoa	3	GO Annotations
+116	agomgd	3	GO-Mouse Genome Databases
+117	agrif	3	Gene Reference Into Function (GRIF)
+118	ahomolog	3	HomoloGene
+119	ainterpr	3	InterPro
+120	alocusli	3	LocusLink ID
+121	akegg	3	KEGG
+122	amaploc	3	Map Location
+123	amgd	3	Mouse Genome Database (MGD)
+124	amgi	3	Mouse Genome Informatics (MGI)
+125	anetaffx	3	NetAffx
+126	aorgansm	3	Organism
+127	aomim	3	OMIM
+128	apdb	3	PDB
+129	apfam	3	PFAM
+130	aphenotp	3	Phenotype
+131	apiripro	3	PIR/Iprot
+132	aplasmod	3	PlasmoDB
+133	apubmed	3	PubMed Links
+134	argd	3	Rat Genome Database (RGD)
+135	arefseq	3	RefSeq
+136	arhdb	3	RHdb
+137	asgd	3	Sacchromyces Database (SGD)
+138	atair	3	TAIR
+139	atigr	3	TIGR
+140	atrembl	3	TrEMBL
+141	aucschgb	3	UCSC Human Genome Build
+142	aunigene	3	UniGene
+143	auniprot	3	UniProt ID
+144	aunists	3	UniSTS
+145	awormbas	3	WormBase
+146	afuncsum	3	Functional summaries
+147	aowndb	3	Own Database
+148	aother	3	Other
+149	afunctio	2	Functional Anotations
+150	abiopath	3	Biological pathways
+151	adesease	3	Desease
+152	afuncat	3	Functional categories
+153	ageneral	3	General annotations
+154	ago	3	Gene Ontology
+155	amf	4	Molecular Functions
+156	abp	4	Biological Processes
+157	acc	4	Cellular Components
+158	aliterat	3	Literature
+159	aprotdom	3	Protein domains
+160	aprotint	3	Protein interactions
+161	apossibi	2	Possibilities
+162	aappend	3	Append
+163	aretriev	3	Retrieval
+164	aremove	3	Remove
+165	acluster	3	Clustering options
+166	agofilt	3	GO terms filtering functions
+167	amapongo	4	Mapping on the ontology
+168	amapslim	4	Mapping on a slim ontology
+169	afitdepth	4	Fitting in depth
+170	afbroad	4	Fitting in broad-based
+171	apreproc	3	Preprocess to obtain gene names
+172	atransfr	3	Data transformations
+173	abias	3	Assess bias
+174	areduce	3	Reduce redundancy
+175	akeysrch	3	Keyword searching
+176	ablastsc	4	BLAST search
+177	aoverlap	4	To find overlap with a second list
+178	afindids	4	To find corresponding IDs
+179	aapi	3	Application Program Interface (API)
+180	aordered	3	Ordered-Input mode
+181	ainex	3	File import/export
+182	ar	3	Integration (with R)
+183	xstatist	1	STATISTICAL ANALYSIS
+184	xanalysi	2	Analysis For
+185	xsnglist	3	A single gene list
+186	xintvsref	3	Interesting list vs reference list
+187	xmltlist	3	Multiple lists
+188	xenrich	2	Enrichment of GO Terms
+189	xunder	3	Under represented
+190	xover	3	Over represented
+191	xcutoff	2	Define Cutoff For
+192	xpvalue	3	p_value
+193	xqvalue	3	q_value
+194	NULL	2	Test in Use
+195	xbin	3	Binomial
+196	xchisqr	3	Chi-Square
+197	xhyper	3	Hypergeometric
+198	xfisher	3	Fishers Exact
+199	xmacnemr	3	MacNemars
+200	xperm	3	Permutation
+201	xmultest	2	Correction for Multiple Tests
+202	xbonferr	3	Bonferroni or modified Bonferroni
+203	xfdr	3	False Discovery Rate method (FDR)
+204	xindep	4	Assuming independence (Benjamin and Hocberg)
+205	xnoindep	4	Dropping independence (Benjamin and Yekutieli)
+206	xfwer	3	Family Wise Error Rate method (FWER)
+207	xholm	4	Holm
+208	xwestfal	4	Westfall and Young
+209	xothers	3	Others
+210	xclassif	4	Classification
+211	xsimdist	4	Similarity/distance measures
+212	ooutputs	1	OUTPUTS
+213	oformat	2	Format
+214	ohtml	3	HTML
+215	osemicol	3	Semicolon-delimited file
+216	osprshet	3	Spreadsheet program
+217	otabtext	3	Tabular text
+218	otsv	3	TSV
+219	oxml	3	XML
+220	oxsl	3	XSL
+221	oannotat	2	Annotation Tables
+222	olistgot	3	List of GO Terms
+223	olistpval	3	List of p_values
+224	olimited	3	List limited
+225	onterms	4	By number of terms
+226	othresh	4	By a p_value threshold
+227	oan4clus	3	Annotations for Clusters
+228	oxref	3	Hyperlink cross-references
+229	ovisuali	2	Visualization
+230	oviewgot	3	View GO Terms
+231	odag	4	Directed Acyclic Graph (DAG)
+232	otree	4	Tree
+233	obarchar	4	Bar charts
+234	oviewpath	3	View genes within pathways
+235	ogobrows	3	GO Browser
+236	oamigo	4	Linked to AmiGO browser
+237	oownbrow	4	Own browser integrated

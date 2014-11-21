@@ -1,0 +1,27 @@
+mgoid	nameT	promoter	link	refer	mexplora	mannotat
+1	CLENCH	Huck Institutes of the Life Sciences, Penn State	http://www.stanford.edu/~nigam/Clench/		1	0
+2	EASE	National Institute of Allergy and Infectious Diseases	http://david.niaid.nih.gov/david/ease.htm		1	0
+3	ermineJ	Center for Computational Biology and Bioinformatics, Columbia University	http://microarray.genomecenter.columbia.edu/ermineJ/		1	1
+4	FatiGO	Bioinformatics Department at the Centro de Investigacion Principe Felipe (Spain)	http://fatigo.bioinfo.cipf.es/		1	0
+5	FuncAssociate	Roth Computational Biology Laboratory, Harvard Medical School	http://llama.med.harvard.edu/cgi/func/funcassociate		1	0
+6	GARBAN	University of Navarra, Spain	http://www.garban.org/garban/home.php		1	1
+7	GFINDer	Bio-Medical Informatics Laboratory at the Politecnico di Milano	http://www.medinfopoli.polimi.it/GFINDer/		1	1
+8	GOArray	Yale Center for Medical Informatics	http://ycmi.med.yale.edu/gomine		1	0
+9	GoMiner	Genomics and Bioinformatics Group of LMP, NCI, NIH and Medical Informatics and Bioimaging group of BME, Georgia Tech/Emory University	http://discover.nci.nih.gov/gominer/htgm.jsp		1	0
+10	GOstat	Walter and Eliza Hall Institute of Medical Research, Melbourne, Australia	http://gostat.wehi.edu.au/		1	0
+11	GoSurfer	Harvard School of Public Health	http://bioinformatics.bioen.uiuc.edu/gosurfer/		1	0
+12	GOTM	University of Tennessee Genome Science and Technology and Oak Ridge National Laboratory (ORNL)	http://bioinfo.vanderbilt.edu/gotm/		1	0
+13	MAPPFinder	Gladstone Institutes, University of California	http://www.genmapp.org/MAPPFinder.html		1	0
+14	NetAffx	Affymetrix	https://www.affymetrix.com/site/login/login.affx		1	1
+15	DAVID	National Institute of Allergy and Infectious Diseases	http://apps1.niaid.nih.gov/david/		0	1
+16	MatchMiner	Genomics and Bioinformatics Group of LMP, NCI, NIH and Medical Informatics and Bioimaging group of BME, Georgia Tech/Emory University	http://discover.nci.nih.gov/matchminer/index.jsp		0	1
+17	OntoGate (OntoBlast)	Max Planck Institute for Molecular Genetics	http://functionalgenomics.de/ontogate/		0	1
+18	SOURCE	Stanford Microarray Database	http://source.stanford.edu/cgi-bin/source/sourceSearch		0	1
+19	eGOn	Norwegian University of Science and Technology and Norwegian Microarray Consortium	http://www.genetools.microarray.ntnu.no/common/intro.php		1	1
+20	GeneMerge	Harvard University	http://www.oeb.harvard.edu/hartl/lab/publications/GeneMerge/GeneMerge.html		1	1
+21	GOToolBox	Developmental Biology Institute of Marseille	http://crfb.univ-mrs.fr/GOToolBox/index.php		1	1
+22	Onto-Tools	Intelligent Systems and Bioinformatics Laboratory, Wayne State University	http://vortex.cs.wayne.edu/projects.htm		1	1
+23	Ontologizer	Charité University Hospital, Germany	http://www.charite.de/ch/medgen/ontologizer/		1	0
+24	ontology Traverser	Baylor College of Medicine	http://franklin.imgen.bcm.tmc.edu/rho-old/services/OntologyTraverser/		1	0
+25	SeqExpress	SeqExpress	http://www.seqexpress.com/		1	0
+26	THEA	Virtual Biology Lab at the Institute of Signaling, Developmental Biology and Cancer Research	http://thea.unice.fr/index-en.html		1	1
