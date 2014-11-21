@@ -1,13 +1,11 @@
-## Title of Thesis : Methods And Models for The Analysis Of Biological Significance On
-##                   High-Throughput Data
-## PhD Candidate : Jose Luis Mosquera
-##    Supervisor : Alex Sanchez
+##   Thesis Title : Methods and Models for The Analysis Of Biological Significance Based o High-Throughput Data
+##  PhD Candidate : Jose Luis Mosquera
+## Thesis Advisor : Alex Sanchez
 ##
-##      Script : DATA ANALYSIS for studying the evolution and clustering of GO Tools available
-##               in SerbGO database
-## Description : In order to study the evolution of the 30 GO tools originally included in
-##               SerbGO database along five years, namely, 2005, 2007 and 2009, three transversal
-##               sections over a this period of time have been considered.
+## Description : It is the main file to perform the data analysis for studying the evolution and clustering of GO Tools
+##               available in SerbGO database. This script is intended to provide main parameters required during the
+##               analysis.
+##    License : See LICENSE.md for details.
 
 ######################################
 ## Chunk 1: Global parameters
