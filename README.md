@@ -54,8 +54,9 @@ Data and R code provided in this repository are a part of the PhD thesis called 
 
 ## 6. Authors
 
-* Author: Jose Luis Mosquera (jlmosquera@gmail.com), PhD candidate - Department of Statistics. Universtiy of Barcelona
-* Advisor: Alex Sánchez, PhD - Department of Statistics. University of Barcelona
+* Author: Jose Luis Mosquera, PhD (jlmosquera@gmail.com) - Department of Statistics. Universtiy of Barcelona.
+          Currently at the Bioinformatics/Biostatistics Uniat - IRB Barcelona.
+* Advisor: Alex Sánchez, PhD - Department of Statistics. University of Barcelona.
 
 ## 7. References
 
